@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "yargs": "^17.5.1"
+  },
+  "scripts": {
+    "yarg":"node index.js",
+    "yarn":"npm run yarg"
+  }
+}
